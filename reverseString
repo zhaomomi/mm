@@ -1,0 +1,4 @@
+function reverseString(str) {  
+2 return str.split("").reverse().join(""); 
+3 } 
+4 reverseString("hello"); 
